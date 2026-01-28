@@ -1,0 +1,7 @@
+{
+  "name": "Nexus - Smart Digital Business Card",
+  "description": "A high-fidelity, sleek personal business card app featuring glassmorphism design, AI-powered bio generation, and instant QR code sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
